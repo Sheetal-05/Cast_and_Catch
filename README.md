@@ -1,4 +1,4 @@
-# **Mini_Golf** 
+# **CAST AND CATCH** 
 
 ---
 
@@ -27,10 +27,13 @@ After the game ends, the player can restart the game to play again.
 
 ## **Screenshots 📸**
 
+<br><img src="./images/01.png" alt="Image Description">
 <br>
+<img src="./images/02.png" alt="Image Description">
 
-![image](../cast_and_catch/images/01.png) 
-![image](../cast_and_catch/images/02.png) 
+
+
+
 
 <br>
 
